@@ -1,0 +1,25 @@
+.centered {
+    text-align: center;
+}
+
+.middle{
+    text-align: center;
+}
+
+.photo{
+    height: 50px;
+    width: 50px;
+}
+
+.picture{
+    height: 300px;
+    width: auto; 
+}
+
+.bronx{
+    text-align: center;
+}
+
+.boxed{
+    border: black solid 1px;
+}
